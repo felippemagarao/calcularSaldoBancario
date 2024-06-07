@@ -1,4 +1,4 @@
-# Calcular Saldo Bancario - JAVA
+# Calcular Saldo Bancario
 
 ## Desenvolvedor
 J. Felippe Magarão
